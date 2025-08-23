@@ -16,7 +16,6 @@ Below the imported file ans folders and their structure and their use cases are 
 │ └── index.tsx (homepage, entry point of the website)
 ├── postcss.config.mjs (tailwindcss config, don't touch)
 ├── public (public assets)
-│ ├── dedsec.gif
 │ └── locales
 │ ├── en
 │ │ └── common.json (save en equivalents here)
@@ -26,7 +25,7 @@ Below the imported file ans folders and their structure and their use cases are 
 │ ├── app
 │ │ └── globals.css (global css's obviously, don't touch the font generated font faces)
 │ ├── components
-│ │ ├── layout (folder to place layout components of you app)
+│ │ ├── layout (folder to place layout components of your app)
 │ │ └── ui (used for reusable components)
 │ └── server
 │ ├── controllers (api routes handling logics)
