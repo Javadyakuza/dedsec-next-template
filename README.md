@@ -6,6 +6,7 @@ This templates will bring you a simple ready to go next template with pages rout
 
 Below the imported file ans folders and their structure and their use cases are demonstrated.
 
+```
 ├── next-env.d.ts (auto gen, don't touch)
 ├── next-i18next.config.js (Recommended not to touch)
 ├── pages
@@ -35,6 +36,7 @@ Below the imported file ans folders and their structure and their use cases are 
 │ ├── core (Core services that run independently)
 │ └── utils (helper functions for all the services)
 ├── tailwind.config.ts (tailwind config, touch only when nesseccary)
+```
 
 > This structure is not mandatory, you can change it as you wish.
 
