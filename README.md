@@ -42,5 +42,10 @@ Below the imported file ans folders and their structure and their use cases are 
 # How to use
 
 1. Clone the repo
+
+```
+git clone https://github.com/Javadyakuza/dedsec-next-template.git sample-project-name
+```
+
 2. Run `npm install`
 3. Run `npm run dev`
